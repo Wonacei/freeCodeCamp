@@ -1,3 +1,4 @@
 001 - Learn HTML by Building a Cat Photo App
 002 - Learn Basic CSS by Building a Cafe Menu
 003 - Learn CSS Colors by Building a Set of Colored Markers
+004 - Learn HTML Forms by Building a Registration Forms
