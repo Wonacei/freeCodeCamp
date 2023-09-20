@@ -3,3 +3,5 @@
 003 - Learn CSS Colors by Building a Set of Colored Markers
 004 - Learn HTML Forms by Building a Registration Forms
 005 - Survey Form (Certification Project)
+
+006 - Learn the CSS Box Model by Building a Rothko Painting
