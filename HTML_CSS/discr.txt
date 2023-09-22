@@ -5,3 +5,5 @@
 005 - Survey Form (Certification Project)
 
 006 - Learn the CSS Box Model by Building a Rothko Painting
+007 - Learn CSS Flexbox in Building a Photo Gallary
+008 - Learn Typography by Building a Nutrition label
