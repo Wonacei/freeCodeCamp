@@ -8,3 +8,4 @@
 007 - Learn CSS Flexbox in Building a Photo Gallary
 008 - Learn Typography by Building a Nutrition label
 009 - Lern Accessiility by Building a Quiz
+010 - Tribute Page (Certification Project)
