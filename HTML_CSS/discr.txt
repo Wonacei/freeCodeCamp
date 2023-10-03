@@ -11,3 +11,5 @@
 010 - Tribute Page (Certification Project)
 
 011 - Learn More About CSS Pseudo Selectors ByBuilding A Balance Sheet
+012 - Learn Intermediate CSS by Building a Cat Painting
+ 
