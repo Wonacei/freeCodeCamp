@@ -14,3 +14,5 @@
 012 - Learn Intermediate CSS by Building a Cat Painting
 013 - Learn Responsive Web Design by Building a Piano
 014 - Technical Documentation Page
+
+015 - Learn CSS Variables by Builsing a City Skyline
