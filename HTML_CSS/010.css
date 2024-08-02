@@ -1,19 +1,17 @@
 html {
     font-size: 10px;
-   box-sizing: border-box;
+    box-sizing: border-box;
     background-color: #fff;
 }
 body {
     background-color: #eee;
     font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
     border-radius: 5px;
-   
     font-size: 1.6rem;
 }
 main {
     margin: 30px 8px;
     padding: 15px;
-  
 }
 h1 {
     font-size: 4rem;
@@ -31,7 +29,6 @@ h1 {
     padding: 10px;
     width: 100%;
     margin: 0;
-
 }
 img{
     display: block;
